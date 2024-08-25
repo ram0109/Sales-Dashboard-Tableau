@@ -1,5 +1,6 @@
 # Sales-Dashboard-Tableau
 Project Title: Sales Dashboard Development Using Tableau
+
 Objective: The main objective of this project was to design and develop an interactive and comprehensive sales dashboard using Tableau. The dashboard was intended to provide stakeholders with valuable insights into key business metrics such as total sales, profits, and sales distribution, enabling more informed decision-making and strategic planning.
 
 Data Handling and Preparation:
@@ -28,4 +29,5 @@ Total Sales, Profit, and Quantity: The dashboard calculated and displayed total 
 Sales and Profit Distribution by States: Analyzed and visualized the distribution of sales and profit across different states, identifying regions with above and below-average performance.
 Monthly Sales by Segment: Visualized monthly sales broken down by different segments, providing insights into seasonal trends and segment-specific performance.
 Total Sales by Location and Managers: Included visualizations that showed total sales by various locations and managers, helping to identify top-performing regions and individuals.
+
 Outcome: The final sales dashboard was a powerful tool for the organization, providing a user-friendly and interactive interface for analyzing sales data. It enabled stakeholders to quickly identify trends, assess performance across various dimensions, and make data-driven decisions. The dashboard's combination of advanced analytical techniques, user experience features, and comprehensive KPIs made it an invaluable resource for optimizing business strategies and improving overall sales performance.
